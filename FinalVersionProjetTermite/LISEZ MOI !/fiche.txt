@@ -1,0 +1,19 @@
+											
+Projet d'INFO 121 2020-2021 : 
+	
+	Type de groupe : monôme
+	Membre : Théo Manea Dan
+
+
+Questions pour la préparation de la soutenance : 
+	
+	Qualité de la connexion pour Collaborate : plutôt bonne mais possibilité de passer sur données mobiles (encore meilleures !)
+	Périphériques : Microphone et Caméra intégrés
+	Numéro de portable en cas de problème : 06 61 99 27 24
+
+
+
+Utilisation : 
+	
+	J'ai personnelement utilisé visual-studio, j'ai utilisé 4 librairies : window, system, audio et graphics
+	Comme je sais que beaucoup utilisent linux je pourrais préparer la ligne de commande en installant moi aussi une distribution sur un ordinateur pour voir.
